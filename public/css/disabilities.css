@@ -1,0 +1,42 @@
+h1 {
+   width:100%;
+   text-align:center;
+font-family: 'Homemade Apple', cursive;}
+
+h2 {
+  font-family: 'Cinzel', serif;
+
+}
+
+.borders {
+  border-style: double; background-color: white;
+  width:75%;
+  margin-left:7.5%;
+  padding-left:5%;
+  padding-right:5%;
+  text-align: center;
+}
+
+body {
+  background-image: url("https://media.istockphoto.com/photos/marble-texture-background-picture-id513061068?k=6&m=513061068&s=612x612&w=0&h=XfBdVI6FHZlFksIKZvbU-a5oHQ6jYvM3ASsHuzkIoU0=")
+}
+
+.center {
+  margin-left: auto; margin-right: auto; display: block
+}
+
+.MyButton {
+  display: block; margin-left: auto; margin-right: auto;
+}
+
+
+
+a:link {
+    color:black;
+    text-decoration: none;
+}
+
+a:visited {
+    color:black;
+    text-decoration: none;
+}

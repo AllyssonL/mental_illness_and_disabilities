@@ -1,0 +1,54 @@
+.column {
+  float: left; 
+  width: 30%; 
+  padding-right: 1.6%;
+  padding-left:1.6%;
+
+}
+
+#info{
+  position:absolute;
+}
+
+#blur {
+  position:absolute;
+  background-image: url(https://2fl.me/wp-content/uploads/2018/07/marble-pictures-bronze-cracked-marble-textures-plain-wall-murals-marble-stone-names-and-pictures.jpg);
+  filter:blur(2px);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height:100%;
+  min-width:100%;
+
+}
+
+h2 {font-family: 'Cinzel', serif;
+}
+
+.title {
+font-family: 'Homemade Apple', cursive;
+text-align: center}
+
+body {  
+  
+}
+
+.borders {border-style: double;
+  height:500px;
+  text-align:center; background-color:white;
+}
+
+
+
+a:link {
+    color:black;
+    text-decoration: none;
+}
+
+a:visited {
+    color:black;
+    text-decoration: none;
+}
+
+h3 {
+  font-family: 'Homemade Apple', cursive;
+  text-align: center;}
